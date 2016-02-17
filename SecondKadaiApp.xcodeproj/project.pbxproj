@@ -12,6 +12,7 @@
 		25256ACE1C74A878007D106A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 25256ACC1C74A878007D106A /* Main.storyboard */; };
 		25256AD01C74A878007D106A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 25256ACF1C74A878007D106A /* Assets.xcassets */; };
 		25256AD31C74A878007D106A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 25256AD11C74A878007D106A /* LaunchScreen.storyboard */; };
+		25256ADB1C74A8C9007D106A /* ResultViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25256ADA1C74A8C9007D106A /* ResultViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		25256ACF1C74A878007D106A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		25256AD21C74A878007D106A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		25256AD41C74A878007D106A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		25256ADA1C74A8C9007D106A /* ResultViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ResultViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				25256AC81C74A878007D106A /* AppDelegate.swift */,
 				25256ACA1C74A878007D106A /* ViewController.swift */,
 				25256ACC1C74A878007D106A /* Main.storyboard */,
+				25256ADA1C74A8C9007D106A /* ResultViewController.swift */,
 				25256ACF1C74A878007D106A /* Assets.xcassets */,
 				25256AD11C74A878007D106A /* LaunchScreen.storyboard */,
 				25256AD41C74A878007D106A /* Info.plist */,
@@ -138,6 +141,7 @@
 			files = (
 				25256ACB1C74A878007D106A /* ViewController.swift in Sources */,
 				25256AC91C74A878007D106A /* AppDelegate.swift in Sources */,
+				25256ADB1C74A8C9007D106A /* ResultViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
